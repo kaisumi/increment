@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email = ['kaisumi@langue-lab.com']
 
   spec.summary = 'Enables C-style increment.'
-  spec.description = "Enables C-style increment such as 'i++'."
+  spec.description = 'Enables easy increment and decrement of a valuable.'
   spec.homepage = 'https://github.com/kaisumi/increment'
   spec.license = 'MIT'
   spec.required_ruby_version = '>= 2.6.0'
